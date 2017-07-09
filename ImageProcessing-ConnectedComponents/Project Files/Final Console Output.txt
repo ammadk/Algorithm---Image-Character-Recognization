@@ -1,0 +1,1250 @@
+
+
+Connected Component 0
+
+Sum of x     = 807738
+Sum of y     = 205503
+No. of pixel = 1355
+Centroid     = (596.1166 , 151.66273)
+x min        = 558
+x max        = 627
+y min        = 103
+y max        = 187
+
+
+Connected Component 1
+
+Sum of x     = 156125
+Sum of y     = 12264
+No. of pixel = 112
+Centroid     = (1393.9733 , 109.5)
+x min        = 1389
+x max        = 1396
+y min        = 103
+y max        = 116
+
+
+Connected Component 2
+
+Sum of x     = 173121
+Sum of y     = 12265
+No. of pixel = 112
+Centroid     = (1545.7233 , 109.50893)
+x min        = 235
+x max        = 1561
+y min        = 103
+y max        = 116
+
+
+Connected Component 3
+
+Sum of x     = 345424
+Sum of y     = 198346
+No. of pixel = 1304
+Centroid     = (264.8957 , 152.10583)
+x min        = 234
+x max        = 301
+y min        = 104
+y max        = 187
+
+
+Connected Component 4
+
+Sum of x     = 981577
+Sum of y     = 155896
+No. of pixel = 1078
+Centroid     = (910.55383 , 144.61595)
+x min        = 884
+x max        = 942
+y min        = 104
+y max        = 185
+
+
+Connected Component 5
+
+Sum of x     = 1477979
+Sum of y     = 181760
+No. of pixel = 1204
+Centroid     = (1227.5573 , 150.96346)
+x min        = 428
+x max        = 1267
+y min        = 105
+y max        = 186
+
+
+Connected Component 6
+
+Sum of x     = 374611
+Sum of y     = 136636
+No. of pixel = 874
+Centroid     = (428.6167 , 156.33409)
+x min        = 400
+x max        = 460
+y min        = 127
+y max        = 187
+
+
+Connected Component 7
+
+Sum of x     = 849073
+Sum of y     = 178368
+No. of pixel = 1136
+Centroid     = (747.4234 , 157.01408)
+x min        = 106
+x max        = 779
+y min        = 128
+y max        = 187
+
+
+Connected Component 8
+
+Sum of x     = 124356
+Sum of y     = 173963
+No. of pixel = 1084
+Centroid     = (114.71956 , 160.48247)
+x min        = 83
+x max        = 145
+y min        = 128
+y max        = 187
+
+
+Connected Component 9
+
+Sum of x     = 1498521
+Sum of y     = 230078
+No. of pixel = 1395
+Centroid     = (1074.2086 , 164.93047)
+x min        = 1039
+x max        = 1106
+y min        = 128
+y max        = 211
+
+
+Connected Component 10
+
+Sum of x     = 984969
+Sum of y     = 117171
+No. of pixel = 707
+Centroid     = (1393.1669 , 165.72984)
+x min        = 1367
+x max        = 1422
+y min        = 131
+y max        = 187
+
+
+Connected Component 11
+
+Sum of x     = 1082630
+Sum of y     = 119866
+No. of pixel = 697
+Centroid     = (1553.2711 , 171.97418)
+x min        = 89
+x max        = 1567
+y min        = 132
+y max        = 212
+
+
+Connected Component 12
+
+Sum of x     = 125978
+Sum of y     = 338030
+No. of pixel = 1114
+Centroid     = (113.086174 , 303.43805)
+x min        = 87
+x max        = 149
+y min        = 256
+y max        = 337
+
+
+Connected Component 13
+
+Sum of x     = 214221
+Sum of y     = 239769
+No. of pixel = 791
+Centroid     = (270.823 , 303.12137)
+x min        = 244
+x max        = 297
+y min        = 256
+y max        = 337
+
+
+Connected Component 14
+
+Sum of x     = 1247717
+Sum of y     = 246001
+No. of pixel = 806
+Centroid     = (1548.036 , 305.21216)
+x min        = 417
+x max        = 1584
+y min        = 264
+y max        = 341
+
+
+Connected Component 15
+
+Sum of x     = 554008
+Sum of y     = 398261
+No. of pixel = 1298
+Centroid     = (426.81665 , 306.82666)
+x min        = 390
+x max        = 467
+y min        = 279
+y max        = 337
+
+
+Connected Component 16
+
+Sum of x     = 607762
+Sum of y     = 318507
+No. of pixel = 1033
+Centroid     = (588.34656 , 308.33203)
+x min        = 557
+x max        = 622
+y min        = 279
+y max        = 337
+
+
+Connected Component 17
+
+Sum of x     = 700434
+Sum of y     = 288569
+No. of pixel = 933
+Centroid     = (750.7331 , 309.29153)
+x min        = 720
+x max        = 781
+y min        = 280
+y max        = 339
+
+
+Connected Component 18
+
+Sum of x     = 1237909
+Sum of y     = 433138
+No. of pixel = 1369
+Centroid     = (904.2432 , 316.39008)
+x min        = 874
+x max        = 942
+y min        = 280
+y max        = 362
+
+
+Connected Component 19
+
+Sum of x     = 1554788
+Sum of y     = 456431
+No. of pixel = 1441
+Centroid     = (1078.9646 , 316.746)
+x min        = 1040
+x max        = 1109
+y min        = 280
+y max        = 362
+
+
+Connected Component 20
+
+Sum of x     = 1021092
+Sum of y     = 255904
+No. of pixel = 829
+Centroid     = (1231.7153 , 308.69)
+x min        = 1205
+x max        = 1266
+y min        = 281
+y max        = 338
+
+
+Connected Component 21
+
+Sum of x     = 1423866
+Sum of y     = 317869
+No. of pixel = 1022
+Centroid     = (1393.2152 , 311.02643)
+x min        = 82
+x max        = 1420
+y min        = 281
+y max        = 340
+
+
+Connected Component 22
+
+Sum of x     = 106786
+Sum of y     = 428192
+No. of pixel = 923
+Centroid     = (115.69447 , 463.91333)
+x min        = 81
+x max        = 145
+y min        = 433
+y max        = 491
+
+
+Connected Component 23
+
+Sum of x     = 230726
+Sum of y     = 386625
+No. of pixel = 851
+Centroid     = (271.12338 , 454.31845)
+x min        = 236
+x max        = 306
+y min        = 433
+y max        = 489
+
+
+Connected Component 24
+
+Sum of x     = 519325
+Sum of y     = 556467
+No. of pixel = 1210
+Centroid     = (429.1942 , 459.89008)
+x min        = 394
+x max        = 464
+y min        = 433
+y max        = 489
+
+
+Connected Component 25
+
+Sum of x     = 679713
+Sum of y     = 532380
+No. of pixel = 1152
+Centroid     = (590.0286 , 462.1354)
+x min        = 557
+x max        = 623
+y min        = 433
+y max        = 489
+
+
+Connected Component 26
+
+Sum of x     = 826464
+Sum of y     = 516951
+No. of pixel = 1101
+Centroid     = (750.6485 , 469.52863)
+x min        = 720
+x max        = 786
+y min        = 433
+y max        = 514
+
+
+Connected Component 27
+
+Sum of x     = 856425
+Sum of y     = 434857
+No. of pixel = 941
+Centroid     = (910.1222 , 462.12222)
+x min        = 422
+x max        = 935
+y min        = 433
+y max        = 489
+
+
+Connected Component 28
+
+Sum of x     = 424114
+Sum of y     = 597636
+No. of pixel = 994
+Centroid     = (426.67404 , 601.24347)
+x min        = 398
+x max        = 460
+y min        = 564
+y max        = 643
+
+
+Connected Component 29
+
+Sum of x     = 1329127
+Sum of y     = 748376
+No. of pixel = 1240
+Centroid     = (1071.8766 , 603.52905)
+x min        = 109
+x max        = 1106
+y min        = 564
+y max        = 643
+
+
+Connected Component 30
+
+Sum of x     = 146780
+Sum of y     = 791328
+No. of pixel = 1303
+Centroid     = (112.647736 , 607.3124)
+x min        = 76
+x max        = 151
+y min        = 565
+y max        = 641
+
+
+Connected Component 31
+
+Sum of x     = 400893
+Sum of y     = 896530
+No. of pixel = 1487
+Centroid     = (269.5985 , 602.9119)
+x min        = 237
+x max        = 302
+y min        = 565
+y max        = 641
+
+
+Connected Component 32
+
+Sum of x     = 719227
+Sum of y     = 732979
+No. of pixel = 1216
+Centroid     = (591.46954 , 602.7788)
+x min        = 560
+x max        = 624
+y min        = 565
+y max        = 641
+
+
+Connected Component 33
+
+Sum of x     = 1095814
+Sum of y     = 885123
+No. of pixel = 1468
+Centroid     = (746.4673 , 602.9448)
+x min        = 716
+x max        = 779
+y min        = 565
+y max        = 641
+
+
+Connected Component 34
+
+Sum of x     = 1099921
+Sum of y     = 721169
+No. of pixel = 1211
+Centroid     = (908.27496 , 595.51526)
+x min        = 881
+x max        = 944
+y min        = 565
+y max        = 641
+
+
+Connected Component 35
+
+Sum of x     = 1663142
+Sum of y     = 814310
+No. of pixel = 1349
+Centroid     = (1232.8702 , 603.6397)
+x min        = 1200
+x max        = 1266
+y min        = 566
+y max        = 641
+
+
+Connected Component 36
+
+Sum of x     = 1157160
+Sum of y     = 499862
+No. of pixel = 830
+Centroid     = (1394.1687 , 602.24335)
+x min        = 1370
+x max        = 1418
+y min        = 566
+y max        = 641
+
+
+Connected Component 37
+
+Sum of x     = 1385055
+Sum of y     = 538034
+No. of pixel = 889
+Centroid     = (1557.9921 , 605.2126)
+x min        = 746
+x max        = 1591
+y min        = 567
+y max        = 643
+
+
+Connected Component 38
+
+Sum of x     = 879606
+Sum of y     = 884857
+No. of pixel = 1171
+Centroid     = (751.15796 , 755.6422)
+x min        = 718
+x max        = 784
+y min        = 716
+y max        = 795
+
+
+Connected Component 39
+
+Sum of x     = 1623266
+Sum of y     = 1160463
+No. of pixel = 1514
+Centroid     = (1072.1704 , 766.4881)
+x min        = 1038
+x max        = 1104
+y min        = 716
+y max        = 808
+
+
+Connected Component 40
+
+Sum of x     = 1655147
+Sum of y     = 898966
+No. of pixel = 1188
+Centroid     = (1393.2214 , 756.7054)
+x min        = 83
+x max        = 1421
+y min        = 716
+y max        = 795
+
+
+Connected Component 41
+
+Sum of x     = 146214
+Sum of y     = 995092
+No. of pixel = 1320
+Centroid     = (110.76818 , 753.8576)
+x min        = 80
+x max        = 149
+y min        = 718
+y max        = 793
+
+
+Connected Component 42
+
+Sum of x     = 268415
+Sum of y     = 762799
+No. of pixel = 1000
+Centroid     = (268.415 , 762.799)
+x min        = 240
+x max        = 302
+y min        = 718
+y max        = 793
+
+
+Connected Component 43
+
+Sum of x     = 754307
+Sum of y     = 1324358
+No. of pixel = 1755
+Centroid     = (429.80457 , 754.61993)
+x min        = 391
+x max        = 468
+y min        = 718
+y max        = 793
+
+
+Connected Component 44
+
+Sum of x     = 910605
+Sum of y     = 1167209
+No. of pixel = 1547
+Centroid     = (588.6264 , 754.4984)
+x min        = 553
+x max        = 624
+y min        = 718
+y max        = 793
+
+
+Connected Component 45
+
+Sum of x     = 1095763
+Sum of y     = 906485
+No. of pixel = 1206
+Centroid     = (908.5929 , 751.64594)
+x min        = 882
+x max        = 942
+y min        = 718
+y max        = 793
+
+
+Connected Component 46
+
+Sum of x     = 1745716
+Sum of y     = 1071763
+No. of pixel = 1419
+Centroid     = (1230.2438 , 755.29456)
+x min        = 1198
+x max        = 1271
+y min        = 718
+y max        = 793
+
+
+Connected Component 47
+
+Sum of x     = 1690668
+Sum of y     = 814913
+No. of pixel = 1089
+Centroid     = (1552.4958 , 748.3131)
+x min        = 720
+x max        = 1584
+y min        = 718
+y max        = 793
+
+
+Connected Component 48
+
+Sum of x     = 740414
+Sum of y     = 888526
+No. of pixel = 986
+Centroid     = (750.927 , 901.14197)
+x min        = 718
+x max        = 784
+y min        = 868
+y max        = 945
+
+
+Connected Component 49
+
+Sum of x     = 1085886
+Sum of y     = 1081503
+No. of pixel = 1194
+Centroid     = (909.4523 , 905.78143)
+x min        = 236
+x max        = 936
+y min        = 868
+y max        = 944
+
+
+Connected Component 50
+
+Sum of x     = 286622
+Sum of y     = 951133
+No. of pixel = 1058
+Centroid     = (270.90927 , 898.9915)
+x min        = 234
+x max        = 307
+y min        = 869
+y max        = 945
+
+
+Connected Component 51
+
+Sum of x     = 718227
+Sum of y     = 1515634
+No. of pixel = 1674
+Centroid     = (429.0484 , 905.39667)
+x min        = 392
+x max        = 466
+y min        = 869
+y max        = 945
+
+
+Connected Component 52
+
+Sum of x     = 775499
+Sum of y     = 1193513
+No. of pixel = 1315
+Centroid     = (589.7331 , 907.61444)
+x min        = 81
+x max        = 625
+y min        = 869
+y max        = 945
+
+
+Connected Component 53
+
+Sum of x     = 128503
+Sum of y     = 1008562
+No. of pixel = 1114
+Centroid     = (115.35278 , 905.35187)
+x min        = 80
+x max        = 148
+y min        = 870
+y max        = 948
+
+
+Connected Component 54
+
+Sum of x     = 1282571
+Sum of y     = 1263962
+No. of pixel = 1196
+Centroid     = (1072.3838 , 1056.8245)
+x min        = 1049
+x max        = 1099
+y min        = 1012
+y max        = 1097
+
+
+Connected Component 55
+
+Sum of x     = 1769126
+Sum of y     = 1338280
+No. of pixel = 1269
+Centroid     = (1394.1104 , 1054.5941)
+x min        = 1370
+x max        = 1418
+y min        = 1012
+y max        = 1097
+
+
+Connected Component 56
+
+Sum of x     = 1788100
+Sum of y     = 1208561
+No. of pixel = 1148
+Centroid     = (1557.5784 , 1052.7535)
+x min        = 428
+x max        = 1582
+y min        = 1012
+y max        = 1097
+
+
+Connected Component 57
+
+Sum of x     = 456142
+Sum of y     = 1128939
+No. of pixel = 1065
+Centroid     = (428.30234 , 1060.0366)
+x min        = 400
+x max        = 453
+y min        = 1013
+y max        = 1097
+
+
+Connected Component 58
+
+Sum of x     = 609155
+Sum of y     = 1079138
+No. of pixel = 1022
+Centroid     = (596.04205 , 1055.9081)
+x min        = 112
+x max        = 617
+y min        = 1013
+y max        = 1098
+
+
+Connected Component 59
+
+Sum of x     = 123976
+Sum of y     = 1137429
+No. of pixel = 1076
+Centroid     = (115.21933 , 1057.0901)
+x min        = 90
+x max        = 138
+y min        = 1014
+y max        = 1100
+
+
+Connected Component 60
+
+Sum of x     = 925402
+Sum of y     = 778724
+No. of pixel = 749
+Centroid     = (1235.5167 , 1039.6849)
+x min        = 272
+x max        = 1256
+y min        = 1014
+y max        = 1095
+
+
+Connected Component 61
+
+Sum of x     = 202708
+Sum of y     = 798579
+No. of pixel = 752
+Centroid     = (269.5585 , 1061.9402)
+x min        = 247
+x max        = 295
+y min        = 1015
+y max        = 1097
+
+
+Connected Component 62
+
+Sum of x     = 875820
+Sum of y     = 1228602
+No. of pixel = 1161
+Centroid     = (754.36694 , 1058.2274)
+x min        = 725
+x max        = 774
+y min        = 1015
+y max        = 1096
+
+
+Connected Component 63
+
+Sum of x     = 973049
+Sum of y     = 1127584
+No. of pixel = 1069
+Centroid     = (910.2423 , 1054.8026)
+x min        = 589
+x max        = 937
+y min        = 1015
+y max        = 1098
+
+
+Connected Component 64
+
+Sum of x     = 704273
+Sum of y     = 1442168
+No. of pixel = 1193
+Centroid     = (590.3378 , 1208.8584)
+x min        = 422
+x max        = 615
+y min        = 1160
+y max        = 1261
+
+
+Connected Component 65
+
+Sum of x     = 604514
+Sum of y     = 1705375
+No. of pixel = 1410
+Centroid     = (428.73334 , 1209.4858)
+x min        = 266
+x max        = 456
+y min        = 1162
+y max        = 1257
+
+
+Connected Component 66
+
+Sum of x     = 375555
+Sum of y     = 1680138
+No. of pixel = 1388
+Centroid     = (270.57275 , 1210.4741)
+x min        = 246
+x max        = 295
+y min        = 1166
+y max        = 1258
+
+
+Connected Component 67
+
+Sum of x     = 273686
+Sum of y     = 434971
+No. of pixel = 368
+Centroid     = (743.712 , 1181.9865)
+x min        = 726
+x max        = 759
+y min        = 1166
+y max        = 1198
+
+
+Connected Component 68
+
+Sum of x     = 923831
+Sum of y     = 903892
+No. of pixel = 744
+Centroid     = (1241.7084 , 1214.9086)
+x min        = 1232
+x max        = 1254
+y min        = 1166
+y max        = 1263
+
+
+Connected Component 69
+
+Sum of x     = 1006505
+Sum of y     = 882839
+No. of pixel = 727
+Centroid     = (1384.4635 , 1214.359)
+x min        = 113
+x max        = 1395
+y min        = 1166
+y max        = 1263
+
+
+Connected Component 70
+
+Sum of x     = 44141
+Sum of y     = 451462
+No. of pixel = 379
+Centroid     = (116.46702 , 1191.1926)
+x min        = 110
+x max        = 118
+y min        = 1167
+y max        = 1221
+
+
+Connected Component 71
+
+Sum of x     = 661876
+Sum of y     = 736821
+No. of pixel = 618
+Centroid     = (1070.9967 , 1192.267)
+x min        = 1046
+x max        = 1095
+y min        = 1167
+y max        = 1213
+
+
+Connected Component 72
+
+Sum of x     = 1004428
+Sum of y     = 782328
+No. of pixel = 647
+Centroid     = (1552.439 , 1209.1622)
+x min        = 909
+x max        = 1584
+y min        = 1176
+y max        = 1242
+
+
+Connected Component 73
+
+Sum of x     = 941847
+Sum of y     = 1262148
+No. of pixel = 1035
+Centroid     = (909.99713 , 1219.4667)
+x min        = 774
+x max        = 937
+y min        = 1178
+y max        = 1249
+
+
+Connected Component 74
+
+Sum of x     = 160679
+Sum of y     = 258468
+No. of pixel = 214
+Centroid     = (750.8364 , 1207.7944)
+x min        = 724
+x max        = 778
+y min        = 1198
+y max        = 1218
+
+
+Connected Component 75
+
+Sum of x     = 274944
+Sum of y     = 447768
+No. of pixel = 363
+Centroid     = (757.4215 , 1233.5206)
+x min        = 110
+x max        = 776
+y min        = 1217
+y max        = 1250
+
+
+Connected Component 76
+
+Sum of x     = 20293
+Sum of y     = 209363
+No. of pixel = 168
+Centroid     = (120.791664 , 1246.2084)
+x min        = 107
+x max        = 122
+y min        = 1240
+y max        = 1252
+
+
+Connected Component 77
+
+Sum of x     = 743094
+Sum of y     = 819438
+No. of pixel = 603
+Centroid     = (1232.3284 , 1358.9353)
+x min        = 908
+x max        = 1258
+y min        = 1309
+y max        = 1409
+
+
+Connected Component 78
+
+Sum of x     = 636529
+Sum of y     = 952401
+No. of pixel = 697
+Centroid     = (913.241 , 1366.429)
+x min        = 908
+x max        = 929
+y min        = 1317
+y max        = 1416
+
+
+Connected Component 79
+
+Sum of x     = 739645
+Sum of y     = 945497
+No. of pixel = 693
+Centroid     = (1067.3088 , 1364.3535)
+x min        = 579
+x max        = 1073
+y min        = 1317
+y max        = 1415
+
+
+Connected Component 80
+
+Sum of x     = 406612
+Sum of y     = 942333
+No. of pixel = 689
+Centroid     = (590.148 , 1367.6821)
+x min        = 577
+x max        = 604
+y min        = 1318
+y max        = 1417
+
+
+Connected Component 81
+
+Sum of x     = 403462
+Sum of y     = 734312
+No. of pixel = 538
+Centroid     = (749.9294 , 1364.8922)
+x min        = 437
+x max        = 753
+y min        = 1318
+y max        = 1416
+
+
+Connected Component 82
+
+Sum of x     = 290731
+Sum of y     = 922536
+No. of pixel = 674
+Centroid     = (431.35162 , 1368.7478)
+x min        = 416
+x max        = 443
+y min        = 1319
+y max        = 1417
+
+
+Connected Component 83
+
+Sum of x     = 394733
+Sum of y     = 383491
+No. of pixel = 284
+Centroid     = (1389.9049 , 1350.3204)
+x min        = 253
+x max        = 1403
+y min        = 1342
+y max        = 1359
+
+
+Connected Component 84
+
+Sum of x     = 93174
+Sum of y     = 464368
+No. of pixel = 343
+Centroid     = (271.64432 , 1353.8425)
+x min        = 87
+x max        = 303
+y min        = 1351
+y max        = 1356
+
+
+Connected Component 85
+
+Sum of x     = 45038
+Sum of y     = 535089
+No. of pixel = 392
+Centroid     = (114.89286 , 1365.023)
+x min        = 87
+x max        = 142
+y min        = 1362
+y max        = 1368
+
+
+Connected Component 86
+
+Sum of x     = 97512
+Sum of y     = 490284
+No. of pixel = 357
+Centroid     = (273.14285 , 1373.3445)
+x min        = 239
+x max        = 303
+y min        = 1371
+y max        = 1376
+
+
+Connected Component 87
+
+Sum of x     = 389105
+Sum of y     = 388103
+No. of pixel = 279
+Centroid     = (1394.6416 , 1391.0502)
+x min        = 1385
+x max        = 1404
+y min        = 1383
+y max        = 1399
+
+
+Connected Component 88
+
+Sum of x     = 614261
+Sum of y     = 566717
+No. of pixel = 396
+Centroid     = (1551.1642 , 1431.1035)
+x min        = 590
+x max        = 1593
+y min        = 1429
+y max        = 1433
+
+
+Connected Component 89
+
+Sum of x     = 240864
+Sum of y     = 607118
+No. of pixel = 408
+Centroid     = (590.35297 , 1488.0343)
+x min        = 419
+x max        = 616
+y min        = 1470
+y max        = 1504
+
+
+Connected Component 90
+
+Sum of x     = 200503
+Sum of y     = 706821
+No. of pixel = 475
+Centroid     = (422.11157 , 1488.0442)
+x min        = 410
+x max        = 436
+y min        = 1472
+y max        = 1510
+
+
+Connected Component 91
+
+Sum of x     = 637463
+Sum of y     = 884687
+No. of pixel = 593
+Centroid     = (1074.9797 , 1491.8837)
+x min        = 107
+x max        = 1097
+y min        = 1472
+y max        = 1525
+
+
+Connected Component 92
+
+Sum of x     = 33090
+Sum of y     = 490922
+No. of pixel = 330
+Centroid     = (100.27273 , 1487.6425)
+x min        = 89
+x max        = 114
+y min        = 1473
+y max        = 1506
+
+
+Connected Component 93
+
+Sum of x     = 44310
+Sum of y     = 505646
+No. of pixel = 340
+Centroid     = (130.32353 , 1487.1941)
+x min        = 118
+x max        = 142
+y min        = 1473
+y max        = 1506
+
+
+Connected Component 94
+
+Sum of x     = 527042
+Sum of y     = 1060784
+No. of pixel = 701
+Centroid     = (751.8431 , 1513.2439)
+x min        = 719
+x max        = 781
+y min        = 1480
+y max        = 1546
+
+
+Connected Component 95
+
+Sum of x     = 634836
+Sum of y     = 1055835
+No. of pixel = 698
+Centroid     = (909.50714 , 1512.6576)
+x min        = 268
+x max        = 943
+y min        = 1480
+y max        = 1546
+
+
+Connected Component 96
+
+Sum of x     = 78388
+Sum of y     = 429330
+No. of pixel = 285
+Centroid     = (275.04562 , 1506.421)
+x min        = 262
+x max        = 281
+y min        = 1498
+y max        = 1515
+
+
+Connected Component 97
+
+Sum of x     = 605365
+Sum of y     = 763843
+No. of pixel = 494
+Centroid     = (1225.4352 , 1546.2408)
+x min        = 1214
+x max        = 1240
+y min        = 1530
+y max        = 1569
+
+
+Connected Component 98
+
+Sum of x     = 392155
+Sum of y     = 434823
+No. of pixel = 282
+Centroid     = (1390.6206 , 1541.9255)
+x min        = 262
+x max        = 1404
+y min        = 1534
+y max        = 1550
+
+
+Connected Component 99
+
+Sum of x     = 103565
+Sum of y     = 604033
+No. of pixel = 390
+Centroid     = (265.55127 , 1548.8026)
+x min        = 253
+x max        = 277
+y min        = 1535
+y max        = 1568
+
+
+Connected Component 100
+
+Sum of x     = 232709
+Sum of y     = 336894
+No. of pixel = 218
+Centroid     = (1067.4725 , 1545.3854)
+x min        = 136
+x max        = 1081
+y min        = 1539
+y max        = 1551
+
+
+Connected Component 101
+
+Sum of x     = 67471
+Sum of y     = 970474
+No. of pixel = 582
+Centroid     = (115.92955 , 1667.4811)
+x min        = 91
+x max        = 139
+y min        = 1617
+y max        = 1718
+
+
+Connected Component 102
+
+Sum of x     = 86627
+Sum of y     = 239235
+No. of pixel = 147
+Centroid     = (589.2993 , 1627.449)
+x min        = 257
+x max        = 602
+y min        = 1618
+y max        = 1637
+
+
+Connected Component 103
+
+Sum of x     = 94568
+Sum of y     = 578767
+No. of pixel = 347
+Centroid     = (272.53027 , 1667.9164)
+x min        = 246
+x max        = 299
+y min        = 1659
+y max        = 1677
+
+
